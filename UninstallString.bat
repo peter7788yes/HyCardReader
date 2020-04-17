@@ -1,0 +1,1 @@
+rundll32.exe dfshim.dll,ShArpMaintain HyCardReader.application, Culture=neutral, PublicKeyToken=1ca4298d54b1fab8, processorArchitecture=x86
